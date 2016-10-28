@@ -1,6 +1,6 @@
 from conans import ConanFile, CMake
 
-class AutoDriveConan(ConanFile):
+class ExampleConan(ConanFile):
     name = "imaging"
     version = "1.0"
     settings = None
